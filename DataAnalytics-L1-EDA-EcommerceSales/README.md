@@ -140,7 +140,7 @@ Other variables show relatively weak correlations with Total Price.
 Revenue was analyzed across different age groups and genders to identify high-value customer segments.
 The **46–60 age group contributes the highest revenue**, while male customers contribute slightly higher revenue than female customers across the analyzed age groups.
 
-## Key Findings
+## Outcome
 
 The major findings from the analysis are:
 
@@ -171,17 +171,3 @@ Since **Q4 has the highest sales**, the business should increase inventory prepa
 ### 5. Use Customer Segmentation for Personalized Marketing
 Age and gender insights can be used to develop more targeted marketing campaigns and personalized product recommendations based on customer segments and purchasing behavior.
 
-## Project Outputs
-
-The `Screenshots` folder contains the key outputs and visualizations generated during the analysis:
-
-- Dataset Overview
-- Descriptive Statistics
-- Age Distribution
-- Gender Distribution
-- Top-Selling Products
-- Revenue by Product Category
-- Correlation Heatmap
-- Total Revenue by Age Group and Gender
-- Monthly Sales Trend
-- Quarterly Sales Trend
