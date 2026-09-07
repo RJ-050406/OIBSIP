@@ -29,17 +29,17 @@ The customer segments were interpreted from a business perspective to identify o
 
 ## Tools Used
 
-•	Python
-•	Pandas
-•	NumPy
-•	Matplotlib
-•	Seaborn
-•	Scikit-learn
-•	Jupyter Notebook
+- Python
+- Pandas
+-	NumPy
+- Matplotlib
+-	Seaborn
+-	Scikit-learn
+-	Jupyter Notebook
 
 ## Outcome
 
-•	The analysis identified 4,338 unique customers for RFM-based segmentation.
+-	The analysis identified 4,338 unique customers for RFM-based segmentation.
 •	Customers were segmented into 3 distinct groups using K-Means clustering.
 •	Cluster 0 represents customers who are relatively inactive and require re-engagement strategies.
 •	Cluster 1 represents the largest group of active and regular customers who can be targeted through loyalty, cross-selling, and upselling strategies.
